@@ -1,5 +1,7 @@
 # 📞 Telecom Customer Churn Predictor
 
+### 🔗 [LIVE APP DEMO - https://huggingface.co/spaces/vincent-jebin-006/telecom-churn-predictor]
+
 ### 🚀 Project Overview
 This is a Machine Learning application that predicts the probability of a customer leaving a telecom service. By analyzing customer behavior—such as contract type, tenure, and monthly charges—the AI model identifies "at-risk" customers so the company can take action to retain them.
 
